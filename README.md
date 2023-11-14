@@ -117,7 +117,6 @@ print(f"Input:{np.array([1, 0])}, Predicted: {predict_matrix(np.array([1, 0]), W
 print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), W)}")
 ```
 
-
 ## OUTPUT :
 ### Data and Weights:
 ![image](https://github.com/Rithigasri/Experiment-5-Implementation-of-XOR-using-RBF/assets/93427256/9d6b4b6d-e1fd-4fe5-84c4-7673a03659f3)
@@ -147,26 +146,3 @@ A Neural network with input layer, one hidden layer with Radial Basis function a
 The RBF of hidden neuron as gaussian function 
 
 <img width="206" alt="image" src="https://user-images.githubusercontent.com/112920679/201302321-a09f72e9-2352-4f88-838c-3324f6c5f57e.png">
-
-
-## ALGORIHM:
-
-/** Write the Algorithm in steps**/
-
-## PROGRAM:
-
-
-
-## OUTPUT :
-    /**PLOTS of Output in hidden space**/
-    /Classification results
-
-## RESULT:
-
-
-
-
-
-
-
-
